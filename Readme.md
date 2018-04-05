@@ -1,3 +1,3 @@
 # John Castillo
 
-My Portfolio site is hosted here.
+My Portfolio site is located ---> castillojl.com
