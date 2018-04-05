@@ -2,4 +2,4 @@
 
 # Link to Site:
 
-> https://castillojl.com/
+> castillojl.com/
