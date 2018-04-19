@@ -50,7 +50,7 @@ export default [
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="http://nifty-bartik-6de922.netlify.com/"
+            href="http://centsible.netlify.com/"
           >
             Live
           </a>
